@@ -1,0 +1,46 @@
+[
+    {
+        "title"  : "What is the name of Draco Malfoy's son?",
+        "answer_1"  : "Scorpius",
+        "answer_2"  : "Lucius",
+        "answer_3" : "Diego",
+        "answer_4"  : "Severus",                  
+        "right_answer"  : "Scorpius"
+    },
+    
+    {
+        "title"  : "What creature does Dumbledore have as a pet?",
+        "answer_1"  : "Efreet",
+        "answer_2"  : "Fey",
+        "answer_3"  : "Troll",
+        "answer_4"  : "Phoenix",                   
+        "right_answer"  : "Phoenix"
+    },
+    
+    {
+        "title"  : "What is Voldemort's final horcrux?",
+        "answer_1"  : "A mirror",
+        "answer_2"  : "A snake",
+        "answer_3"  : "A brooch",
+        "answer_4" : "Harry Potter",                   
+        "right_answer"  : "A snake"
+    },
+    
+    {
+        "title"  : "Who takes over as headmaster of Hogwarts after Dumbledore's death?",
+        "answer_1"  : "Narcissa Black",
+        "answer_2"  : "Professor Trelawny",
+        "answer_3" : "Delores Umbridge",
+        "answer_4"  : "Professor Snape",                    
+        "right_answer"  : "Professor Snape"
+    },
+    
+    {
+        "title"  : "Who killed Deatheater Antonin Dolohov during the Battle of Hogwarts?",
+        "answer_1"  : "Professor Flitwick",
+        "answer_2"  : "Ron Weasley",
+        "answer_3"  : "Falling Debris",
+        "answer_4"  : "Hermione Granger",                   
+        "right_answer"  : "Professor Flitwick"
+    }
+]
